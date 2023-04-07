@@ -3,6 +3,5 @@
 
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/woodong/Desktop/download.png
+![download](https://user-images.githubusercontent.com/91379630/230555738-9807fd47-1416-40ca-9ac4-0c64b9dfff5d.png)
+
